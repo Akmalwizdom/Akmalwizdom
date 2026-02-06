@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="sungjinwo.gif" width="100%" />
+  <img src="sungjinwo.gif" width="600" />
 </div>
 
 <h1 align="center">Hi, I'm Akmal</h1>
