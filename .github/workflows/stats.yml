@@ -1,0 +1,39 @@
+name: Generate GitHub Stats
+
+on:
+  schedule: # Execute every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Create directory
+        run: mkdir -p dist
+
+      - name: Download Streak Stats
+        run: |
+          curl -o dist/streak.svg "https://nirzak-streak-stats.vercel.app/?user=Akmalwizdom&theme=tokyonight&hide_border=false"
+
+      - name: Download Top Langs
+        run: |
+          curl -o dist/langs.svg "https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=Akmalwizdom&theme=tokyonight&layout=compact&hide_border=false"
+
+      - name: Download Activity Graph
+        run: |
+          curl -o dist/graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=Akmalwizdom&theme=one-dark&area=true&hide_border=false"
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -5,13 +5,13 @@
 <h1 align="center">Hi, I'm Akmal</h1>
 
 <div align="center">
-  <strong>Fullstack Vibe Coder | Passionate about building seamless user experiences</strong>
+  <strong>Full-Stack Engineer pursuing a Computer Science degree.</strong>
 </div>
 
 ---
 
 ### 🚀 About Me
-I'm a fullstack developer who loves blending functionality with aesthetic design. My workflow is driven by clean code, modern UI/UX principles, and a "vibe" that makes development fun and efficient.
+Full-Stack Engineer focused on building reliable, well-structured software with clean architecture and thoughtful user experience.
 
 
 ### 🌐 Connect with Me:
@@ -35,14 +35,12 @@ I'm a fullstack developer who loves blending functionality with aesthetic design
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Akmalwizdom&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akmalwizdom&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akmalwizdom&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=Akmalwizdom&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akmalwizdom&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&hide_border=false&show_icons=true&hide_border=false&layout=compact&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&hide_border=false)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Akmalwizdom&theme=one-dark&area=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&hide_border=false&show_icons=true&hide_border=false&layout=compact&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&hide_border=false&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&hide_border=false)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Akmalwizdom/Akmalwizdom/output/streak.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Akmalwizdom/Akmalwizdom/output/langs.svg" width="48%" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Akmalwizdom/Akmalwizdom/output/graph.svg" width="100%" />
+</div>
 
 ---
 
