@@ -38,10 +38,11 @@ jobs:
           committer_branch: output
           committer_message: "chore: update languages metrics"
           
-      - name: GitHub Streak (using curl to output branch as fallback)
+      - name: GitHub Streak and Activity Graph
         run: |
           mkdir -p dist
           curl -o dist/streak.svg "https://nirzak-streak-stats.vercel.app/?user=Akmalwizdom&theme=tokyonight&hide_border=false"
+          curl -o dist/graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=Akmalwizdom&theme=one-dark&area=true&hide_border=false"
           
       - name: Push Streak to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
