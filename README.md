@@ -38,7 +38,7 @@ Full-Stack Engineer focused on building reliable, well-structured software with 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Akmalwizdom&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://my-github-readme-stats-livid.vercel.app/api/top-langs?username=Akmalwizdom&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmalwizdom&theme=one-dark&area=true&hide_border=true&height=280" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmalwizdom&theme=tokyonight&area=true&hide_border=true&height=280" width="100%" />
 </div>
 
 
