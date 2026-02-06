@@ -8,7 +8,6 @@
   <strong>Full-Stack Engineer pursuing a Computer Science degree.</strong>
 </div>
 
----
 
 ### 🚀 About Me
 Full-Stack Engineer focused on building reliable, well-structured software with clean architecture and thoughtful user experience.
@@ -36,13 +35,12 @@ Full-Stack Engineer focused on building reliable, well-structured software with 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Akmalwizdom&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://my-github-readme-stats-livid.vercel.app/api/top-langs?username=Akmalwizdom&theme=tokyonight&layout=compact&hide_border=false" width="48%" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmalwizdom&theme=one-dark&area=true&hide_border=false&height=280" width="95%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Akmalwizdom&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://my-github-readme-stats-livid.vercel.app/api/top-langs?username=Akmalwizdom&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmalwizdom&theme=one-dark&area=true&hide_border=true&height=280" width="100%" />
 </div>
 
----
 
 ### 🐍 Snake Contribution
 <div align="center">
