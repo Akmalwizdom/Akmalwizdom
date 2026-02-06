@@ -37,7 +37,7 @@ Full-Stack Engineer focused on building reliable, well-structured software with 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Akmalwizdom/Akmalwizdom/output/streak.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/Akmalwizdom/Akmalwizdom/output/langs.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Akmalwizdom/Akmalwizdom/output/languages.svg" width="48%" />
   <br/>
   <img src="https://raw.githubusercontent.com/Akmalwizdom/Akmalwizdom/output/graph.svg" width="100%" />
 </div>
